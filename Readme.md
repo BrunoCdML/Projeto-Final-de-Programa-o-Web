@@ -32,8 +32,8 @@ Distribuidora Legal é uma aplicação web desenvolvida com Flask para gerenciar
 1. Clone o repositório:
 
 ```sh
-git clone https://github.com/seu-usuario/distribuidora_legal.git
-cd distribuidora_legal
+https://github.com/BrunoCdML/Projeto-Final-de-Programa-o-Web.git
+cd Projeto-Final-de-Programa-o-Web.git
 
 python -m venv venv
 source venv/bin/activate  # No Windows use: venv\\Scripts\\activate
