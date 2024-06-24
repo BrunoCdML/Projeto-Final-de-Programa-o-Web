@@ -1,6 +1,4 @@
-# Creating the README.md file with the provided content
 
-readme_content = """
 # Distribuidora Legal
 
 Distribuidora Legal é uma aplicação web desenvolvida com Flask para gerenciar uma distribuidora. A aplicação permite gerenciar clientes, pedidos e inclui funcionalidades de autenticação (login/logout). A aplicação utiliza Bootstrap para a interface de usuário e SQLAlchemy para a interação com o banco de dados MySQL.
