@@ -45,6 +45,7 @@ cd Projeto-Final-de-Programa-o-Web.git
     3.pip install -r requirements.txt
    
 5. Aqui vai um vídeo de como configurar o banco de dados para usar na sua máquina:
+   https://www.youtube.com/watch?v=HWYLFESRfVk&ab_channel=BrunoCardoso
 
 CREATE DATABASE IF NOT EXISTS distribuidora_legal;
 USE distribuidora_legal;
