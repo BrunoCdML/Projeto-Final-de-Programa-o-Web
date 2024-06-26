@@ -30,15 +30,21 @@ Distribuidora Legal é uma aplicação web desenvolvida com Flask para gerenciar
 ### Passos
 
 1. Clone o repositório:
+abra o terminal e digite:
+git clone https://github.com/BrunoCdML/Projeto-Final-de-Programa-o-Web.git
 
-```sh
-https://github.com/BrunoCdML/Projeto-Final-de-Programa-o-Web.git
+2. Entre no repositório:
 cd Projeto-Final-de-Programa-o-Web.git
 
-python -m venv venv
-source venv/bin/activate  # No Windows use: venv\\Scripts\\activate
+3. Caso use o VSCode, digite code . no terminal que irá abrir já no IDE.
 
-pip install -r requirements.txt
+4. Siga os passos abaixo, digite todos eles no terminal
+
+    1.python -m venv venv
+    2.source venv/bin/activate  # No Windows use: venv\\Scripts\\activate
+    3.pip install -r requirements.txt
+   
+5. Aqui vai um vídeo de como configurar o banco de dados para usar na sua máquina:
 
 CREATE DATABASE IF NOT EXISTS distribuidora_legal;
 USE distribuidora_legal;
